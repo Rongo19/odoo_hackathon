@@ -1,2 +1,3 @@
 # odoo_hackathon
-odoo hackathon repository
+Rohan gorde. rohangorde0505@gmail.com
+Aditya Fase. faseaditya768@gmail.com
