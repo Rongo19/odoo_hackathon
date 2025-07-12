@@ -1,6 +1,6 @@
 # odoo_hackathon
-Rohan gorde. rohangorde0505@gmail.com \n
-Aditya Fase. faseaditya768@gmail.com \n
+Rohan gorde. rohangorde0505@gmail.com /n
+Aditya Fase. faseaditya768@gmail.com /n
 problem statement : Develop ReWear, a web-based platform that enables users to exchange unused clothing 
 through direct swaps or a point-based redemption system. The goal is to promote sustainable 
 fashion and reduce textile waste by encouraging users to reuse wearable garments instead of 
